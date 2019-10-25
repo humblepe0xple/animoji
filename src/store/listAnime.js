@@ -829,4 +829,10 @@ export default [
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
   }
-];
+  }
+    animeEmoji:'👊👦☠️',
+    animeName:'One punch man',
+    animeYear:2009,
+    animeLink:'https://myanimelist.net/anime/30276/One_Punch_Man'
+  }
+  }
