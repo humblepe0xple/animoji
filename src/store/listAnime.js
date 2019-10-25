@@ -828,5 +828,10 @@ export default [
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
-  }
-];
+  },
+  {
+    animeEmoji:'⚓🌅⛵👊👦',
+    animeName:'One Piece.',
+    animeYear:1997,
+    animeLink:'https://myanimelist.net/anime/21/One_Piece'
+  ];
